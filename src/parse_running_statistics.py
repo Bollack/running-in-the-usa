@@ -60,10 +60,12 @@ def by_special():
         page_url = PAGE_URL + '?Group=State&Special=' + special
         if special == '':
             special = 'all'
-            print('parsing for ' + special)
 
         # running in the usa, just blocked me, so keeping some gap between the program when accessing the URLs
-        time.sleep(5 + random.randint(2, 20))
+        sleeper = 5 + random.randint(2, 20)
+        print('Sleeping for ' + str(sleeper))
+        time.sleep(sleeper)
+        print('Parsing for ' + special)
         parse_page('All_States_' + special, page_url)
 
 
@@ -75,15 +77,21 @@ def by_group_state():
     for group in GROUPS:
         for state in STATES:
             page_url = PAGE_URL + '?Group=' + group + '&State=' + state
-            print('parsing for ' + group + ' ' + state)
+            print('Parsing for ' + group + ' ' + state)
             file_name = group + '_' + state
 
             # running in the usa, just blocked me, so keeping some gap between the program when accessing the URLs
-            time.sleep(5 + random.randint(2, 45))
+            sleeper = 5 + random.randint(2, 45)
+            print('Sleeping for ' + str(sleeper))
+            time.sleep(sleeper)
+
             parse_page(file_name, page_url)
 
 
 # Main program
+print('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
 print('parsing by special')
 by_special()
+print('*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
+print('parsing by group & state')
 by_group_state()
