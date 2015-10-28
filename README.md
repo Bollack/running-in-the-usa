@@ -13,3 +13,12 @@ Since we want things to be fast, we use lxml as the html parser
 ```
 $ pip install lxml
 ```
+
+## Output
+
+All the output csv files are stored under /output folder.
+ 
+
+## TODO
+Should write a csv to json converter, so data can be used with other programs.
+ 
