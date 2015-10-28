@@ -1,0 +1,460 @@
+City,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+Acme,,,,,,,1,,,,,,1
+Ada,,,,,,2,,1,1,,1,,5
+Adrian,,1,,,2,,1,1,1,,2,,8
+Albion,,,,,,,,,1,,,,1
+Algonac,,,,,,,1,,,,,,1
+Allegan,,,,,,,1,1,1,,,,3
+Allen Park,,,,,,,,1,,,,,1
+Allendale,1,1,1,2,,,,,1,1,1,,8
+Alma,,1,,,2,,,2,1,2,1,1,10
+Almont,,,,,,,,,,,,1,1
+Alpena,,,,,,1,,,1,,,,2
+Alto,,,,,,,,,,1,,,1
+Ann Arbor,2,2,4,10,8,,5,5,4,9,3,1,53
+Arcadia,,,,,,,1,,,,,,1
+Au Gres,,,,,,,1,,,1,,,2
+Auburn,,,,,,,1,,1,,,1,3
+Auburn Hills,,,,,2,1,,,,,,,3
+Augusta,,,,,,2,,1,,,,,3
+Avoca,,,1,,,,,1,,1,,,3
+Bad Axe,,,,,1,,,,,1,,,2
+Baldwin,,,,,,,1,,1,1,,,3
+Bangor,,1,,,,,,,,,,,1
+Bark River,,,,,,,,,1,,,,1
+Baroda,,,,,,,,1,,,,,1
+Bath,,,,,,,,1,,,,2,3
+Battle Creek,,,,1,4,4,1,5,2,1,2,1,21
+Bay City,1,1,1,1,,5,1,2,1,2,1,1,17
+Bay Port,,,,,,,,1,,,,,1
+Beaverton,,,,,,,1,,,,,,1
+Belding,,,,,,,,,1,1,,,2
+Bellaire,1,,,,,,,1,1,,,,3
+Belleville,,,,,,,2,,,1,,1,4
+Belmont,,1,,,,,,,,1,,,2
+Benton Harbor,,,,3,,,,2,1,1,2,,9
+Berkley,,,,,1,,,,,,,1,2
+Berrien Springs,,,,1,1,,,,1,,,,3
+Bessemer,,,,,,,,,,,,1,1
+Beulah,,,,,,,1,1,,,,,2
+Beverly Hills,,,,,2,,,,,1,,,3
+Big Rapids,,,,1,1,,,1,2,1,1,,7
+Birch Run,,,,,,,1,,,,,,1
+Birmingham,,,,,,,,1,,,,,1
+Blissfield,,,,1,,,,,,1,,2,4
+Bloomfield Hills,,,,,,1,,,2,2,,,5
+Bloomfield Township,,,,1,,,,,,,,,1
+Bloomingdale,,,,,,,,,,1,,,1
+Boyne City,,,,,,,1,,1,,2,,4
+Boyne Falls,,,,,,2,,,,,,,2
+Breckenridge,,,,,,,,,1,,,,1
+Brethren,,,,,,1,,,,,,,1
+Bridgeport,,,,,,1,,,1,1,,,3
+Bridgman,,,,,,,1,,,,,,1
+Brighton,,,1,,4,3,2,3,3,1,2,,19
+Bronson,,,,,,,,,,1,,,1
+Brooklyn,,,,1,1,,,,1,,,,3
+Brownstown,,,,,1,,,,,,,,1
+Buchanan,,,,,1,,,,,1,,,2
+Buckley,,,,,,,,1,,,,,1
+Burnips,,,,,,,1,,,,,,1
+Burr Oak,,,,,,,1,,,,,,1
+Burton,,1,,,2,,1,,1,,1,,6
+Byron Center,,,,1,,,1,,,,,,2
+Cadillac,,,,1,1,2,,1,,,1,1,7
+Caledonia,,,,,,,1,,1,,,,2
+Calumet,,,,,,,,1,,,,,1
+Cannonsburg,,,,,,,,,1,,,,1
+Canton,1,,,1,1,1,,,1,1,,,6
+Capac,,,,,,1,,,1,,1,,3
+Caro,,,,,,2,,1,,1,,,4
+Caseville,,,,,,,1,1,1,,,,3
+Cass City,,,,,,,1,,2,,,,3
+Cedar Springs,,,,,,,,,1,,,,1
+Central Lake,,,,,,1,1,,,,,,2
+Centreville,,,,,,1,,,,,,,1
+Charlevoix,,,,,,2,1,,,2,,,5
+Charlotte,,,,,,1,,,1,1,1,,4
+Chassell,,,,,,,1,,,,,,1
+Cheboygan,,,,,,1,1,1,,,,,3
+Chelsea,1,,,,1,1,,1,,,,,4
+Chesaning,,,,,,,1,,,1,,,2
+Clare,,,1,,,,,,,1,,1,3
+Clark Lake,,,,,,,1,1,,,,,2
+Clarkston,,,,1,2,,1,,,3,2,,9
+Clawson,,,,,,1,1,,,,,,2
+Climax,,,,,2,,,,,,,,2
+Clinton,,,,,,1,,,,,,,1
+Clio,,,,,1,,,,,,,,1
+Coldwater,,,,,2,,,2,1,,1,,6
+Coleman,,,1,,1,,,,,1,,,3
+Coloma,,,,1,,,,1,,,,,2
+Columbus,,,,,,,,,,2,,,2
+Commerce,1,,,,,,,,,,1,,2
+Commerce Township,,,,1,,,,,,,,,1
+Comstock Park,,,,,1,1,,1,,,,,3
+Concord,,,,,,1,,,,1,,,2
+Coopersville,,1,,1,,1,,,,,,,3
+Copemish,,,,,,1,,,,,,,1
+Copper Harbor,,,,,,,,1,,,,,1
+Corunna,,,,,,,,,,2,,,2
+Crystal,,,,,,,,1,,,,,1
+Crystal Falls,,,,,,,1,,,,,,1
+Dansville,,,,,1,1,,,1,,,,3
+Davison,,,,,,1,,1,,1,1,,4
+Dearborn,,,,1,,,,1,,2,,,4
+Decatur,,,,,,,1,,,,,,1
+Deckerville,,,,,,,,,,1,,,1
+Detroit,2,2,2,4,7,2,6,6,10,6,3,2,52
+DeWitt,,,,,1,1,,1,1,,,,4
+Dewitt Township,,,,1,,,,,,,,,1
+Dexter,,,1,1,,,,,1,1,1,1,6
+Douglas,,,,,,,,,1,,,,1
+Dowagiac,,,,,,,2,,,1,,,3
+Dowling,,,,1,,,,,,,,,1
+Drummond Island,,,,,,,,,,1,,,1
+Dryden,,,,,,,,,1,,,,1
+Dundee,,,1,,,1,,,,,,,2
+Durand,,,,,1,,,,,,,,1
+Eagle Harbor,,,,,,,2,,,,,,2
+East China,,,,1,,,,,,,1,,2
+East Grand Rapids,,,1,,,1,1,,1,,1,,5
+East Jordan,,,1,,,1,1,,,,,,3
+East Lansing,,1,4,8,2,2,,2,1,7,2,,29
+East Tawas,,,,,,,,,1,,,,1
+Eaton Rapids,,,,,,,,,,1,1,,2
+Edmore,,,,,,1,1,1,,,,,3
+Edwardsburg,,,,,,,1,1,,,,,2
+Elk Rapids,,,,,,,,1,,,,,1
+Elmira,,,,,,,,,1,,,,1
+Elsie,,,,,1,,1,,,,,,2
+Empire,,,,,,,,,,1,,,1
+Erie,,,,,,1,,,,,,,1
+Escanaba,,,,,1,,,,,,,,1
+Essexville,,,,1,,,,,,,,,1
+Evart,,,,,,,1,,,,,,1
+Farmington,1,,1,,1,,,1,,,,,4
+Farmington Hills,,,,,,2,1,,,1,,,4
+Farwell,,,,,,2,1,,,1,,,4
+Fenton,,,,,1,,1,1,1,,,1,5
+Ferndale,,,,,1,,,,,1,1,,3
+Flint,,1,1,,3,1,4,3,,1,,2,16
+Flushing,,1,1,2,1,1,,,,2,,,8
+Fort Gratiot,,,,,1,,,,,,1,,2
+Fowler,,,,,,,1,,,,,,1
+Fowlerville,,,,,,,,,2,,,1,3
+Frankenmuth,,1,,,,,1,1,1,2,,,6
+Frankfort,,,1,,,,,,,,,,1
+Fraser,,,,,,,1,,,,,,1
+Freeland,,,,1,,1,,,,,,,2
+Fremont,1,,,,,,1,,,,1,,3
+Fruitport,,,,,,,1,,,,,,1
+Gaylord,,1,1,,2,,2,,1,3,1,,11
+Gladstone,,,,,,,,,,1,,,1
+Glen Arbor,,,,,,2,,1,,,,,3
+Gobles,,,,,,,,,,1,,,1
+Goodrich,,,,,,,,1,,,,,1
+Grand Blanc,,,,,,1,,,1,1,1,,4
+Grand Haven,,2,,1,1,,2,,3,1,1,,11
+Grand Ledge,,,,,,1,2,,2,,,,5
+Grand Rapids,,1,1,5,5,9,4,8,9,8,3,4,57
+Grandville,,1,,1,,1,1,,,,,,4
+Grass Lake,,,,,,1,2,,1,,,,4
+Grayling,,,,,1,,1,,1,,,,3
+Greenville,,,,1,,1,,1,,3,,,6
+Gregory,,,,,1,1,,2,,,,,4
+Grosse Ile,,,1,,1,,,1,,,1,,4
+Grosse Pointe,,,,,,,,,1,,,,1
+Grosse Pointe Farms,,,,,,,,,1,,,,1
+Grosse Pointe Shores,,,,,1,,,,,1,,,2
+Grosse Pointe Woods,,,,1,,,,,,,,,1
+Gwinn,,,,,1,,,,,,,,1
+Hale,,,,,,,1,,1,,,,2
+Hamilton,,,,,,,1,,,,,,1
+Hamtramck,,1,,,,,,,1,,,,2
+Hancock,,,,,,,1,,,1,1,,3
+Hanover,,,,,,,1,,,,,,1
+Harbor Beach,,,,,,,,1,1,,,,2
+Harbor Springs,,,,,,,1,,1,,,,2
+Harrison,,,,,,3,,,1,,,,4
+Harrison Township,1,,1,,,1,,,,1,,,4
+Harsens Island,,,,,,,1,,,,,,1
+Hart,,,,,,,,,1,,,,1
+Hartford,,,,,,1,,,,,,,1
+Hartland,,,,,1,,,,,,,,1
+Haslett,,,,,1,,,1,1,,1,,4
+Hastings,,,,,,,1,1,1,,1,,4
+Hell,,,,,,,,,1,,,,1
+Hemlock,,,,1,,,,,1,1,,,3
+Hersey,,,,,,,1,,,,,,1
+Hesperia,,,,,,,,,1,,,,1
+Hessel,,,,,,,,,,,,1,1
+Hickory Corners,,,,,,1,,,,,,,1
+Highland,,,,,1,,,,1,,1,,3
+Highland Park,,,,,,,,,,1,,,1
+Hillsdale,,,,,,,1,1,1,1,,,4
+Holland,,,,1,1,6,2,5,2,2,1,1,21
+Holly,,,,,2,,1,1,1,1,,1,7
+Holt,,,,,,,,1,1,3,,,5
+Hopkins,,,,,,,1,,,,,,1
+Houghton,,,,,1,,1,1,,1,,,4
+Houghton Lake,1,,,1,,,,,,,,,2
+Howard City,,,,,,,,,1,,,,1
+Howell,,2,,1,1,1,2,3,1,1,1,,13
+Hubbard Lake,,,,,,,,1,,,,,1
+Hubbardston,,,,,1,,,,,,,,1
+Hudson,,,,,,1,1,,,,,,2
+Hudsonville,,,1,1,,,,,,1,,,3
+Huntington Woods,,,,,,1,,,,,,,1
+Imlay City,,,,,,,1,,,,1,,2
+Inkster,,,,,,1,,,,,,,1
+Interlochen,,,,,,,1,,,,,,1
+Ionia,,,1,,1,1,2,,1,,,1,7
+Ira Township,,,,,,,1,,,,,,1
+Iron Mountain,1,,,,,1,,1,1,1,,,5
+Iron River,,,,,,,,1,,,,,1
+Ishpeming,,,,,,,,2,,,,,2
+Ithaca,,,,,,1,1,1,1,,,,4
+Jackson,1,,,1,4,1,1,1,1,1,3,1,15
+Jenison,,,,,2,1,,,,,,,3
+Johannesburg,,,,,1,,1,,,1,,,3
+Kalamazoo,1,2,1,4,7,3,1,2,4,4,1,1,31
+Kalkaska,,,,1,1,,,,,,,,2
+Kent City,,,1,,,,,,,,1,,2
+Kentwood,,,,,,,,2,1,,,,3
+Kinde,,,,,,,,,1,,,,1
+Kingsley,,,,,,,2,,,,,,2
+L'Anse,,,,,,1,,,,,,,1
+Laingsburg,,,,,,,1,2,2,,,,5
+Lake City,,,,1,,,1,,,,,,2
+Lake Odessa,,,,,,2,,,,,,,2
+Lake Orion,,,,,1,1,,1,2,2,1,,8
+Lakeport,,,,,,,,1,,,,,1
+Lakeview,,,,,,,,,1,,1,,2
+Lansing,2,1,3,4,12,8,5,3,8,7,3,3,59
+Lapeer,,,,,,,,1,,1,,,2
+Laurium,,,,,,,,,1,,,,1
+Lawton,,,,,1,,,,,,,,1
+Le Roy,,,,,,1,1,,,,,,2
+Leland,,,,,,,1,,,,,,1
+Leonard,,,,,,,,,1,,,,1
+Leonidas,,,,,,,,,1,,,,1
+Leslie,,,,,,,,,,1,,,1
+Levering,,,,,1,,,,,,,,1
+Lexington,,,,,,,1,,1,,,,2
+Linden,1,,,,,3,,,,1,1,,6
+Litchfield,,,,,,,,1,,,,,1
+Livonia,5,4,4,5,5,6,5,4,5,6,4,4,57
+Lowell,,,,1,,,1,2,,1,,,5
+Ludington,,,1,,,1,,1,1,1,1,,6
+Luna Pier,,,,,,,1,,,,,,1
+Lupton,,,,,,,1,,,,,,1
+Luther,,,,,,,1,,,,,,1
+Mackinac Island,,,,,,1,,,1,1,,,3
+Mackinaw City,,,,,1,,1,,,1,,,3
+Macomb,,,,,,2,,,,1,,,3
+Mancelona,,,,,,1,,,,,,,1
+Manistee,,,,,,,2,,,1,,1,4
+Maple City,,1,,,,,,,,,,,1
+Marine City,,,,,,,,1,,,,,1
+Marion,,,,,,,,1,,,,,1
+Marlette,,,,,,1,1,,,,,,2
+Marne,,,,1,,,,,,,,,1
+Marquette,,,1,1,2,3,1,1,3,1,1,,14
+Marshall,,,1,,1,,,,1,,,,3
+Martin,,,,,,,,,,1,,,1
+Marysville,,,1,1,1,2,,1,,1,,,7
+Mason,,,,,1,,,1,,2,,,4
+Mattawan,,,,,1,,,1,,1,1,,4
+McBain,,,,,,,,1,,,,,1
+Mears,,,,,,2,,,,,,,2
+Mecosta,,,,,,2,,,,,,,2
+Memphis,,,,,,,,1,,,,,1
+Menominee,,,,,1,,,,,1,,1,3
+Mesick,,,,,1,,,,,,,,1
+Middleville,1,,,,,3,1,1,,,1,,7
+Midland,,,,2,6,4,1,,3,2,1,,19
+Milan,,,,,,,,1,,,,,1
+Milford,,,,,1,,1,3,2,1,3,,11
+Millington,,,,,,,1,,,,,,1
+Mohawk,,,,,,,,,,1,,,1
+Monroe,,,,,1,,,1,,1,1,,4
+Montrose,,,,,,,,1,,,,,1
+Moran,,,,,,,,,1,,,,1
+Morley,,,,,1,,,,,,,,1
+Mount Pleasant,,2,,2,,2,1,,1,2,,,10
+Mt. Clemens,,,,1,1,,,,,,,,2
+Mt. Morris,,,,,,,,2,,,,,2
+Mt. Pleasant,1,1,1,1,2,1,,,2,2,,,11
+Munger,,,,,,,,1,,,,,1
+Munising,,,,,,1,2,,,,,,3
+Muskegon,,,1,,2,1,1,2,5,,4,,16
+Nahma,,,,,,1,,,,,,,1
+Napoleon,,,,,,1,,,,,,,1
+Nashville,,,,,,,,,1,,,,1
+Negaunee,,,,,1,,1,1,,1,,,4
+New Baltimore,,,,,,,1,,,,,1,2
+New Boston,,,,1,2,,,,1,1,,,5
+New Buffalo,,,,,1,,1,,,,,,2
+New Hudson,,,,,,,1,,,,,,1
+New Troy,,,,,,,,,1,,,,1
+Newaygo,,,,,1,,1,,1,,,1,4
+Newberry,,,,,1,1,,1,1,,,,4
+Niles,1,,,,,2,,2,,,1,,6
+North Branch,,,,,,,,1,,,1,,2
+North Muskegon,1,,,,1,,,,,,,,2
+Northville,,,,,2,2,1,,2,1,1,,9
+Norton Shores,,,,,,,,1,,,,,1
+Norway,,,,1,,,,,,,,,1
+Novi,,1,,2,1,1,1,,1,,,,7
+Nunica,,,,,,,,1,,,,,1
+Oakland Township,,,1,,,,,,,1,,,2
+Okemos,,1,1,1,,2,1,2,3,1,,1,13
+Olivet,,,,,,1,,,,1,,,2
+Omer,1,,,,,,,,,,,,1
+Ontonagon,,,,,,,,,1,,,,1
+Ortonville,,,,,2,,1,,,1,,,4
+Oscoda,,,,1,,,1,,1,,,,3
+Otisville,,,,,,,,,,1,,,1
+Otsego,,,,,,,,1,,,,,1
+Overisel,,,,,1,,,,,,,,1
+Ovid,,,1,,,,,,,,,,1
+Owosso,,,,1,1,1,,,1,1,1,1,7
+Oxford,,,,,2,,,,,3,1,1,7
+Painesdale,,,,,,,,,1,,,,1
+Paradise,,1,,,,2,,1,,1,,,5
+Parchment,,,,,,,1,,,,,,1
+Parma,,,,,1,,1,,1,,,,3
+Paw Paw,,,,,,,,,1,,,1,2
+Pentwater,,,,,,,1,,1,,,,2
+Perry,,,,,,,,,1,,,,1
+Petersburg,,,,,,,1,,,,,,1
+Petoskey,1,,,,1,,1,1,,2,,,6
+Pewamo,,,,,,1,,,,,,,1
+Pigeon,,,,,,,1,,,,,,1
+Pinckney,,,1,2,2,1,1,1,3,1,,,12
+Pinconning,,,,,,1,,,,,,,1
+Pittsford,,,,,,1,,1,,,,,2
+Plainwell,,,,,,1,,,,,,,1
+Plymouth,,,1,,,1,,,,2,1,,5
+Port Austin,,,,,1,,1,,,,,,2
+Port Huron,1,,1,,1,1,2,1,,1,1,1,10
+Port Sanilac,,,,,,,,1,,,,,1
+Portage,,1,,2,,,,1,2,3,2,,11
+Portland,1,,,,,1,1,1,2,1,,,7
+Potterville,,,1,,,1,1,,,1,,,4
+Presque Isle,,,,,1,,,,,,,,1
+Quincy,,,,,,,,1,,,,,1
+Rapid River,,,,,1,,,,,,,,1
+Reed City,,,,,,,,1,,1,,,2
+Reese,1,1,1,,,,,,,,,1,4
+Richland,,,,,,,1,,,,,,1
+Richmond,,,,,,,,,1,1,,,2
+Riverview,,1,,,,1,,,,,,,2
+Rives Junction,,,,,1,,,,,,,,1
+Rochester,2,,1,1,3,2,,1,2,2,,,14
+Rochester Hills,,,,1,1,2,,1,2,1,2,,10
+Rockford,,,,1,,,3,1,,1,,,6
+Rodney,,,,,,,1,1,,,,,2
+Romeo,,,,,,,,,1,,,,1
+Roscommon,,,,,,1,,,,,,,1
+Rose City,,,,,,,,,,1,,,1
+Roseville,,,,,,,,,,,1,,1
+Royal Oak,,,1,2,2,2,,2,3,1,,1,14
+Ruby,,,,,,1,,,,,,,1
+Rudyard,,,,,,1,1,,,,,,2
+Saginaw,,,,1,1,3,1,2,3,2,3,1,17
+Saint Clair,,1,,,,,,,,,,,1
+Saint Ignace,,,,,1,,,,2,,,,3
+Saint Johns,,,,1,2,,,,1,1,,,5
+Saint Louis,,,,,,,,,1,,1,,2
+Salem,,,,,,1,,,,,,,1
+Saline,,,,,,,,1,,1,,,2
+Sandusky,,,,,,,,,1,,,,1
+Sanford,,,,,,,1,1,1,,,,3
+Saranac,,,,,,,,1,,1,1,,3
+Saugatuck,,,,,,1,,,,,,,1
+Sault Sainte Marie,,,,,,,,1,,,,,1
+Sault Ste. Marie,,,,,1,1,,,1,1,1,,5
+Schoolcraft,,,,,,,1,,,,,,1
+Scotts,,,,,,,,,1,,,,1
+Sebewaing,,,,,,1,,,,,,,1
+Shelby,1,,,,,1,1,,1,,1,,5
+Shelby Township,,,,2,4,1,1,2,1,,3,1,15
+Shepherd,1,,,1,1,,,,,1,1,,5
+Sheridan,,,,,2,,,,,,,,2
+Silver City,,,1,,,,,,1,,,,2
+Smyrna,,,,,,,,1,,,,,1
+South Haven,,1,,,,4,,2,1,1,,,9
+South Lyon,,1,,1,1,,,,2,,,,5
+Southfield,,,,,2,2,,1,1,1,,,7
+Southgate,,,,,,1,,,,,,,1
+Sparta,,,,,,,1,,,,1,,2
+Spring Arbor,,,1,,,,,,1,,,,2
+Spring Lake,,,1,,,1,2,,2,,,,6
+Springport,,,,,1,,,,,,,,1
+St Joseph,,,,,1,,,,,,,,1
+St. Charles,,,,,,,,,,1,,,1
+St. Clair,,1,,,,1,1,,,,2,,5
+St. Clair Shores,,,,,2,1,,,1,,,,4
+St. Johns,,,,,2,1,,3,,2,1,,9
+St. Joseph,,1,,,1,1,2,,,1,,,6
+St. Louis,,,,,,,1,,,,,,1
+Standish,,,,,,,,,,1,,,1
+Stanton,,,,,,,,,1,,,,1
+Sterling Heights,,,,,1,,1,,1,,,,3
+Stevensville,,,,,,,,,,,1,,1
+Sturgis,,,,,,2,,1,1,,,1,5
+Suttons Bay,,,,,,,,,1,,,,1
+Swartz Creek,,,,,1,,,,,,,,1
+Sylvan Lake,,,,,1,,,,,,,,1
+Taylor,,,,1,,1,1,,1,,,,4
+Tecumseh,,,,,,,2,,,,,,2
+Temperance,,,,,,,,1,,1,,,2
+Thompsonville,,,,,1,,,,,,,,1
+Three Rivers,,,,,1,1,,1,,1,,,4
+Tipton,,,,,,,,,1,1,,,2
+Traverse City,2,,1,4,6,3,3,3,2,4,2,2,32
+Trenton,,,,,,1,,,,,,,1
+Troy,,,,3,,,,1,1,2,,,7
+Trufant,,,,,,,,,1,,,,1
+Twin Lake,,,1,,,,,,,,,,1
+Union City,,,,,,1,1,,,1,,,3
+Unionville,,,,,,,,,1,,,,1
+University Center,,,,1,,,,,1,1,,,3
+Utica,,,2,,,,,,,1,1,,4
+Vandalia,,,,,,,,,,1,,,1
+Vassar,,,,,,,,1,,,,,1
+Vermontville,,,,1,,,,,,,,,1
+Vestaburg,,,,,1,1,1,,,,,,3
+Vicksburg,,1,,,2,,,1,,1,,,5
+Wakefield,,,,,,,1,,1,,,,2
+Walker,,,,2,,1,,2,,3,,1,9
+Walled Lake,,,1,,1,,,1,,,,,3
+Washington,,,,,,2,,,,,,,2
+Waterford,,,,,1,,1,,1,1,,,4
+Watersmeet,,,,,,,,,,1,,,1
+Watervliet,,,,,,,1,,,1,,,2
+Wayland,,,,,,,1,,,,,,1
+Wayne,,,,,,,,,,1,,,1
+Webberville,,,,,1,,,,,,,,1
+Wellston,,,,,,,,2,,,,,2
+West Bloomfield,,,,,1,,,,,,,,1
+West Branch,,,1,,1,1,,,,2,,,5
+West Olive,,,,,,,,,,1,,,1
+Westland,,,,,2,1,1,,2,,1,,7
+Westphalia,,,,,,,1,,,,,,1
+White Cloud,,,,,,,1,,,,,,1
+White Lake,,,,,,,,,1,,,,1
+White Pigeon,,,,,,,1,,,,,,1
+Whitehall,,,,,,1,1,,1,,,,3
+Whitmore Lake,,,,,,,1,,,1,,,2
+Williamston,,,,1,1,,,,1,1,,,4
+Wixom,,,,,,,,,,,1,,1
+Woodhaven,,,,,,,,,,1,,,1
+Wyandotte,,,,,2,,,,1,1,1,,5
+Wyoming,,,,,,,1,,,,,,1
+Yale,,,,,,,1,,1,,,,2
+Ypsilanti,,,,,1,1,,,1,1,,,4
+Zeeland,,,,,,1,,,,,1,,2
+Total,40,47,64,125,226,223,204,197,236,235,116,56,1769
