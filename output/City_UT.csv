@@ -1,0 +1,131 @@
+City,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Total
+Alpine,,,,,1,,,1,1,,,,3
+American Fork,,,3,,1,1,,1,2,,1,,9
+Beaver,,,,,,,,2,1,,,,3
+Blanding,,,,,1,,1,,,,,,2
+Bluffdale,,,,,1,,,2,,,,,3
+Bountiful,,1,,,1,1,1,2,1,,1,,8
+Brian Head,,,,,1,,,,1,,,,2
+Brigham City,,,,,1,,1,,,,,,2
+Bryce Canyon,,,,,,,1,,,,,,1
+Bryce Canyon City,,,,,,2,,1,,,,,3
+Cedar City,,,,1,1,3,,1,2,1,,,9
+Centerville,,,,,,,1,,,3,,,4
+Charleston,,,,,,,1,,,1,,,2
+Clearfield,,,,,,1,1,,,,,,2
+Coalville,,,,,,,1,,,,,,1
+Cottonwood Heights,,,,,2,1,1,1,,,1,,6
+DELTA,,1,,,,,,,,,,,1
+Draper,,,,1,1,1,1,1,1,1,1,,8
+Duchesne,,,,,,,,1,,,,,1
+Dugway,,,,,,,,,,1,,,1
+Eagle Mountain,,,,,1,,,2,,1,,,4
+Eagle Mountain City,,,,,,1,,,,,,,1
+Eden,,,,,,,,1,,,,,1
+Elk Ridge,,,,,,1,,,,,,,1
+Enterprise,,,,,,,,1,,,,,1
+Ephraim,,,,,2,,,,,,,,2
+Escalante,,,,,,,,,,1,,,1
+Eureka,,,,,,,,1,,,,,1
+Fairfield,,,,1,,,,,,,,,1
+Farmington,,,,1,,1,1,,1,,1,,5
+Faust,,,,,,,,,,1,,,1
+Francis,,,,,,1,,,,,,,1
+Fruit Heights,,,,,,,,1,,,,,1
+Garden City,,,,,,,,,2,,,,2
+Genola,,,,1,,,,,,,,,1
+Grantsville,,,,,,,1,,,,,,1
+Green River,,,,,,,,,,1,,,1
+Gunnison,,,,,,1,,,,,,,1
+Heber City,,,,,1,,,1,,1,,,3
+Herriman,1,,,2,3,3,1,2,,2,,,14
+Highland,,,,,,,1,,,,1,,2
+Holladay,,,,,1,,,,,,,,1
+Hooper,,,,,,,,,1,,,,1
+Huntington,,,,,,,1,1,,,,,2
+Huntsville,,,,,1,,1,,1,,,,3
+Hurricane,,,1,,3,,,,2,,,1,7
+Hyrum,,,,,,,1,,,,,,1
+Ivins,,1,2,,,,,,,1,1,1,6
+Kamas,,,,,1,,,1,,,1,,3
+Kanab,,,,,1,,,1,2,,,,4
+Kaysville,,,,,,,,1,,3,,,4
+Kearns,2,2,1,,,,,2,,,,,7
+Layton,,,1,,1,1,1,3,1,3,,,11
+Lehi,,,1,1,,2,,1,,,3,,8
+Levan,,,,,,,,,,1,,,1
+Liberty,,,,,,,,1,,,,,1
+Lindon,,,,,,,,1,,,,,1
+Logan,,,1,1,2,2,2,3,4,1,,,16
+Magna,1,2,,1,,,1,,,,2,,7
+Manila,,,,,,,,1,,,,,1
+Mantua,,,,1,,,,,,,,,1
+Mapleton,,,,,,,,2,,,,,2
+Marriott-Slaterville,,,,,,,,,,2,,,2
+Mendon,,,,,,,1,,,,,,1
+Midvale,,,,,,,,1,,,,,1
+Midway,1,1,,,,2,,,3,2,1,,10
+Moab,,1,3,3,2,2,1,,,2,2,1,17
+Mona,,,,,,1,,,,,,,1
+Monticello,,,,,,,,,,1,,,1
+Monument Valley,,,2,,,,,,,,,1,3
+Morgan,,,,,,1,1,,,,,,2
+Mount Carmel,,,,,1,,,,,,,,1
+Mount Pleasant,,,,,,,,,1,,,,1
+Murray,,,1,,2,,1,,1,,,,5
+Neola,,,,,,,1,,,,,,1
+Nephi,,,,,,,1,,,,,,1
+Nibley,,,,,,,,,,,,1,1
+North Logan,,,,,,,,,,2,,,2
+North Ogden,,,,,1,,,,,,,,1
+North Salt Lake,,,,1,,1,1,,1,2,2,,8
+Oakley,,,,,,,1,,,,,,1
+Ogden,,2,3,2,6,1,,4,4,1,2,,25
+Orem,,,1,6,1,1,,3,4,1,2,,19
+Panguitch,,,,,,1,,,,,,,1
+Park City,,,,,2,1,1,2,6,4,,,16
+Parowan,,,,,,,,1,,,,,1
+Payson,,,,1,,,,,2,,,,3
+Plain City,,,,,,,,,,1,,,1
+Pleasant Grove,,,1,,,2,,1,1,,,,5
+Pleasant View,,,,,,1,,,,,,,1
+Price,,,,,,2,,1,1,,1,,5
+Providence,,,,,,,,,,,,1,1
+Provo,1,1,2,2,4,3,6,3,6,3,,2,33
+Richfield,,,,1,,,,1,,,,,2
+Richmond,,,,,,,,,,1,,,1
+Riverdale,,,,,,1,,,,,,,1
+Riverton,,,,1,1,1,1,2,,1,1,,8
+Roosevelt,,,,,,,1,1,1,,,,3
+Roy,,,,2,,1,,1,,,,,4
+Saint George,1,,,,,,,,,,,,1
+Salem,,,,,1,,,1,,1,,,3
+Salt Lake City,1,1,9,12,18,12,7,7,9,14,4,2,96
+Sandy,,,,,2,1,2,1,1,,1,,8
+Santa Clara,,,,,,,,,1,,,,1
+Scofield,,,,,,,,1,,,,,1
+Smithfield,,,1,,1,1,,,,,1,,4
+Snowbird,,,,,,,1,1,2,,,,4
+South Jordan,1,1,1,3,2,3,1,1,,2,1,,16
+South Ogden,,,,1,,,,,,,,,1
+South Weber,,,,,,,,,2,3,,,5
+Spanish Fork,,,,,1,,2,,,1,,,4
+Springdale,,,1,,,,,,,,1,,2
+Springville,,,,,1,1,1,3,1,,1,,8
+St. George,1,2,1,3,2,1,2,,2,6,4,,24
+Syracuse,,,1,,1,,,2,,2,2,,8
+Taylorsville,,,1,1,,,,,,,,,2
+Tooele,,,,1,1,2,,,1,,,,5
+Torrey,,,,,,1,,,1,,,,2
+Vernal,,,1,,2,1,,,2,,,,6
+Veyo,,,,,,,,,,,,2,2
+Virgin,,,,2,,,,,,,,,2
+Washington,,1,,1,,,,,,1,,,3
+Wellsville,,,,2,2,,,1,,,,,5
+Wendover,,,,1,,,,,,,,,1
+West Bountiful,,,,,1,,,,,,,,1
+West Haven,,,,,,1,,,1,,,,2
+West Jordan,,1,,1,2,,,1,3,3,,,11
+West Point,,,,1,1,,,,,1,,,3
+Yuba Lake,,,,,,,,,1,,,,1
+Total,10,18,39,59,86,69,54,80,81,80,39,12,627
