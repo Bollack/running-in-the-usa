@@ -1,10 +1,10 @@
-import re
 import csv
-import time
 import random
+import re
+import time
 
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
 
 PAGE_URL = "http://runningintheusa.com/Race/Statistics.aspx"
 GROUPS = {'County', 'City', 'RaceEvent'}
@@ -16,12 +16,12 @@ SPECIALS = {'', 'marathon', 'halfmarathon', 'mid', '10K', '5K', 'trail', 'ultra'
 
 
 def strip_html_whitespace(html_text):
-    """
+    '''
     Strips the page of extraneous html between the tags.
 
     :param html_text:
     :return:
-    """
+    '''
     html_text = re.sub(">\s*", ">", html_text)
     html_text = re.sub("\s*<", "<", html_text)
     return html_text
@@ -42,7 +42,7 @@ def parse_page(file_name, page_url):
     div = soup.find(id="ctl00_MainContent_UpatePanel1")
     table = div.next_sibling.next_sibling
 
-    with open('../output/' + file_name + '.csv', 'w') as f:
+    with open('../output/csv/' + file_name + '.csv', 'w') as f:
         writer = csv.writer(f)
         for row in table.find_all('tr'):
             each_row = [col.text for col in row.find_all('td')]
