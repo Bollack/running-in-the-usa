@@ -1,0 +1,50 @@
+[
+  {
+    "Sep": "Sep",
+    "Total": "Total",
+    "Dec": "Dec",
+    "May": "May",
+    "Apr": "Apr",
+    "Nov": "Nov",
+    "City": "City",
+    "Oct": "Oct",
+    "Jun": "Jun",
+    "Aug": "Aug",
+    "Mar": "Mar",
+    "Feb": "Feb",
+    "Jan": "Jan",
+    "Jul": "Jul"
+  },
+  {
+    "Sep": "21",
+    "Total": "146",
+    "Dec": "6",
+    "May": "23",
+    "Apr": "13",
+    "Nov": "17",
+    "City": "Washington",
+    "Oct": "30",
+    "Jun": "9",
+    "Aug": "4",
+    "Mar": "12",
+    "Feb": "5",
+    "Jan": "3",
+    "Jul": "3"
+  },
+  {
+    "Sep": "21",
+    "Total": "146",
+    "Dec": "6",
+    "May": "23",
+    "Apr": "13",
+    "Nov": "17",
+    "City": "Total",
+    "Oct": "30",
+    "Jun": "9",
+    "Aug": "4",
+    "Mar": "12",
+    "Feb": "5",
+    "Jan": "3",
+    "Jul": "3"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Sep": "Sep",
+    "Total": "Total",
+    "Dec": "Dec",
+    "May": "May",
+    "Apr": "Apr",
+    "County": "County",
+    "Oct": "Oct",
+    "Jun": "Jun",
+    "Aug": "Aug",
+    "Mar": "Mar",
+    "Feb": "Feb",
+    "Nov": "Nov",
+    "Jan": "Jan",
+    "Jul": "Jul"
+  },
+  {
+    "Sep": "21",
+    "Total": "146",
+    "Dec": "6",
+    "May": "23",
+    "Apr": "13",
+    "County": "District of Columbia",
+    "Oct": "30",
+    "Jun": "9",
+    "Aug": "4",
+    "Mar": "12",
+    "Feb": "5",
+    "Nov": "17",
+    "Jan": "3",
+    "Jul": "3"
+  },
+  {
+    "Sep": "21",
+    "Total": "146",
+    "Dec": "6",
+    "May": "23",
+    "Apr": "13",
+    "County": "Total",
+    "Oct": "30",
+    "Jun": "9",
+    "Aug": "4",
+    "Mar": "12",
+    "Feb": "5",
+    "Nov": "17",
+    "Jan": "3",
+    "Jul": "3"
+  }
+]
