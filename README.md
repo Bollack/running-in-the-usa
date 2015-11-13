@@ -17,8 +17,3 @@ $ pip install lxml
 ## Output
 
 All the output csv files are stored under [output](https://github.com/varunmehta/running-in-the-usa/tree/master/output) folder.
- 
-
-## TODO
-Should write a csv to json converter, so data can be used with other programs.
- 
